@@ -1,0 +1,5 @@
+c:\users\vishal.ranjan\documents\visual studio 2015\Projects\Msmq\Application1\bin\Debug\Application1.pdb
+c:\users\vishal.ranjan\documents\visual studio 2015\Projects\Msmq\Application1\obj\Debug\Application1.csprojResolveAssemblyReference.cache
+c:\users\vishal.ranjan\documents\visual studio 2015\Projects\Msmq\Application1\obj\Debug\Application1.pdb
+c:\users\vishal.ranjan\documents\visual studio 2015\Projects\Msmq\Application1\bin\Debug\Application1.exe
+c:\users\vishal.ranjan\documents\visual studio 2015\Projects\Msmq\Application1\obj\Debug\Application1.exe
